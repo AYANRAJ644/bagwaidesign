@@ -1,14 +1,14 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/themes/creative/)
+# [Start Bootstrap - CREATIVITY](https://startbootstrap.com/themes/creative/)
 
 [Creative](https://startbootstrap.com/themes/creative/) is a one page, creative website theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
-## Preview
+## Preview BOOTCAMP 
 
 [![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://startbootstrap.github.io/startbootstrap-creative/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-creative/)**
 
-## Status
+## BOOTSTRAP INFORMATION 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-creative.svg)](https://www.npmjs.com/package/startbootstrap-creative)
